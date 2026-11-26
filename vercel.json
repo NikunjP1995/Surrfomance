@@ -1,4 +1,1 @@
-{
-  "cleanUrls": true,
-  "trailingSlash": false
-}
+{"cleanUrls":true,"trailingSlash":false,"redirects":[{"source":"/industries","destination":"/who-we-serve","permanent":true},{"source":"/index.html","destination":"/","permanent":true},{"source":"/about.html","destination":"/about","permanent":true},{"source":"/services.html","destination":"/services","permanent":true},{"source":"/privacy.html","destination":"/privacy","permanent":true},{"source":"/book","destination":"/calendar","permanent":false},{"source":"/audit","destination":"/calendar","permanent":false},{"source":"/call","destination":"/calendar","permanent":false},{"source":"/blog/google-ads-for-realtors-gta","destination":"/blog","permanent":false}]}
